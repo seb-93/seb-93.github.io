@@ -11,35 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, Salzburg University, 2022
+* B.S. in Biology, Salzburg University, 2017
+* Technical Informatics - Federal Higher Technical Institute Salzburg (June 2013)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2022 - Present: Researcher
+  * Salzburg Research Forschungsgesellschaft
+  * Duties includes:  Daten Visualisierung, Exploraitve Data Analysis, Modellentwicklung, Studiendesign, Datenaufzeichnung (Wearable sensors, motion tracking, IMU), Digital Signal Processing, Betreuung Forschungspartner, Literaturarbeit, Publikationen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Juli 2019 - Dezember 2019: Data Analyst
+  * Salzburg University (QM)
+  * Duties included: Programming automated reporting of students evaluation, building Dashboards with Shiny
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R (tidyverse, knitR, shiny)
+* Python (pandas, scipy, sklearn, pytorch)
+* LaTeX
+* Data Science
+  * Data Visualisation 
+  * Regression
+  * Neuronal Networks (Deep learning)
+  * Time Series Analysis
+  * Exploraitve Data Analysis
+* Modell Development
+* Study design
+* Field Measurements (Wearable sensors, motion tracking, IMU), * Digital Signal Processing
+* Misc
+  * Linux, Windows
+  * Bash
+
+
+Interests
+======
+* Sports
+* Literature
+* Gardening
+* Fotography
+* Biology - especially Neurobiology, Botany and Beahavioural Biology
+
 
 Publications
 ======
@@ -53,12 +65,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
