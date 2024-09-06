@@ -1,1 +1,15 @@
-# seb-93.github.io
+# Data Scientist
+
+## Education
+
+## Work Experience
+Salzburg Research from x to y
+
+
+
+## Projects
+
+
+## Publications
+
+
