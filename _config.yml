@@ -1,4 +1,14 @@
-title: Sebastian Mayr
-logo: /assets/img/headshot_circle.png
-description: Researcher and Data Scientist
+title: Portfolio - Sebastian Mayr
 theme: jekyll-theme-minimal
+
+
+#Site Author
+author:
+  name: "Sebastian Mayr"
+  logo: /assets/img/headshot_circle.png
+  description: Researcher and Data Scientist
+  location: Salzburg, Austria
+  email: sfp_m@mailbox.org
+  researchgate: https://www.researchgate.net/profile/Sebastian-Mayr-3
+
+
