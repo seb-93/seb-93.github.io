@@ -19,7 +19,7 @@ redirect_from:
 
 * June 2022 - Present: Researcher
   * Salzburg Research Forschungsgesellschaft
-  * Duties includes:  Daten Visualisierung, Exploraitve Data Analysis, Modellentwicklung, Studiendesign, Datenaufzeichnung (Wearable sensors, motion tracking, IMU), Digital Signal Processing, Betreuung Forschungspartner, Literaturarbeit, Publikationen
+  * Duties includes: Exploraitve Data Analysis, Model Development, Study Design, Data Collection (Wearable sensors, motion tracking, IMU), Digital Signal Processing
 
 * Juli 2019 - Dezember 2019: Data Analyst
   * Salzburg University (QM)
