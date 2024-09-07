@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 # Education
-======
+
 * M.S. in Data Science, Salzburg University, 2022
 * B.S. in Biology, Salzburg University, 2017
 * Technical Informatics - Federal Higher Technical Institute Salzburg (June 2013)
 
 # Work experience
-======
+
 * June 2022 - Present: Researcher
   * Salzburg Research Forschungsgesellschaft
   * Duties includes:  Daten Visualisierung, Exploraitve Data Analysis, Modellentwicklung, Studiendesign, Datenaufzeichnung (Wearable sensors, motion tracking, IMU), Digital Signal Processing, Betreuung Forschungspartner, Literaturarbeit, Publikationen
@@ -26,7 +26,7 @@ redirect_from:
   * Duties included: Programming automated reporting of students evaluation, building Dashboards with Shiny
   
 # Skills
-======
+
 * R (tidyverse, knitR, shiny)
 * Python (pandas, scipy, sklearn, pytorch)
 * LaTeX
@@ -44,7 +44,7 @@ redirect_from:
 
 
 # Interests
-======
+
 * Sports and movement in general
 * Literature
 * Gardening
@@ -53,13 +53,13 @@ redirect_from:
 
 
 # Publications
-======
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+# Talks
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
