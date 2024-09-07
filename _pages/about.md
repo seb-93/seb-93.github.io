@@ -24,3 +24,17 @@ When I’m not immersed in data or research, I enjoy pursuing a range of hobbies
 # Publications & Talks
 
 I’m committed to contributing to the scientific community, and you can find a selection of my publications and talks on this website. Feel free to browse through my research work for more details.
+
+
+%% copied%%
+Human Motion Analytics
+
+Human Motion Analytics: Nutzerzentrierte Bewegungsdatenanalyse
+
+Bewegung ist ein allgegenwärtiger Aspekt unseres Lebens und essentieller Bestandteil von Innovationen im Gesundheits-, Sport- und Fitnessbereich. Wir analysieren Bewegungsdaten aus einer Vielzahl von Datenquellen. Mit Verfahren aus der Signalverarbeitung, Statistik und des maschinellen Lernens bewerten wir die Datenqualität, identifizieren Bewegungsmuster und entwickeln Modelle. Dieses detaillierte Wissen über die Bewegungsqualität ermöglicht neuartige Anwendungen für Nutzer/-innen – zur Steigerung von Gesundheit, Performance, Sicherheit oder  Bewegungsfreude.
+
+Technologien & Methoden:
+
+    Technologien zur Erfassung menschlicher Bewegung
+    Datenanalyse und Entwicklung von Algorithmen zur Bewertung der Bewegungsqualität
+    Prototypentwicklung zur Effektmessung von Interventionen sowie sicheres und nachhaltiges (Forschungs-)Datenmanagement
