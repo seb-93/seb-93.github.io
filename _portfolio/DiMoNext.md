@@ -1,6 +1,6 @@
 ---
 title: "Digital Motion Next (DiMo-NEXT)"
-excerpt: "Comet project for digitalization in sports <br/><img src='/images/500x300.png'>"
+excerpt: "Comet project for digitalization in sports"
 collection: portfolio
 ---
 

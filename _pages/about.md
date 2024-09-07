@@ -11,11 +11,11 @@ Hello, I'm Sebastian, a passionate Data Scientist and Researcher with a unique b
 
 # My Journey
 
-I started my academic career in Technical Informatics at the Federal Higher Technical Institute (HTL) Salzburg, before diving deeper into the world of biology and data science. This interdisciplinary background allows me to approach problems from both a technical and biological perspective. Currently, I’m working as a Researcher at Salzburg Research Forschungsgesellschaft, where I specialize in data analysis, and model development, particularly in the fields of wearable sensors and motion tracking.
+I started my academic career in Technical Informatics at the Federal Higher Technical Institute (HTL) Salzburg, before diving deeper into the world of biology and data science. This interdisciplinary background allows me to approach problems from both a technical and biological perspective. Currently, I’m working as a Researcher at Salzburg Research Forschungsgesellschaft, where I specialize in prototype development and data analysis particularly in the fields of wearable sensors and motion tracking.
 
 # What I Do
 
-In my role, I handle everything from digital signal processing to study design and data acquisition, primarily using wearable sensors like IMUs for motion tracking. My expertise also extends to working with tools such as R and Python, where I apply methods like deep learning and time series analysis. I'm passionate about using data to uncover insights that can drive innovation and research in areas such as human movement and sensor technology.
+In my role, I handle everything from study design to data acquisition, digital signal processing and statistical evaluation. I'm passionate about using data to uncover insights that can drive innovation and research in areas such as human movement and sensor technology to improve health, performance and wellbeing.
 
 # Beyond Data
 
@@ -26,15 +26,4 @@ When I’m not immersed in data or research, I enjoy pursuing a range of hobbies
 I’m committed to contributing to the scientific community, and you can find a selection of my publications and talks on this website. Feel free to browse through my research work for more details.
 
 
-%% copied%%
-Human Motion Analytics
 
-Human Motion Analytics: Nutzerzentrierte Bewegungsdatenanalyse
-
-Bewegung ist ein allgegenwärtiger Aspekt unseres Lebens und essentieller Bestandteil von Innovationen im Gesundheits-, Sport- und Fitnessbereich. Wir analysieren Bewegungsdaten aus einer Vielzahl von Datenquellen. Mit Verfahren aus der Signalverarbeitung, Statistik und des maschinellen Lernens bewerten wir die Datenqualität, identifizieren Bewegungsmuster und entwickeln Modelle. Dieses detaillierte Wissen über die Bewegungsqualität ermöglicht neuartige Anwendungen für Nutzer/-innen – zur Steigerung von Gesundheit, Performance, Sicherheit oder  Bewegungsfreude.
-
-Technologien & Methoden:
-
-    Technologien zur Erfassung menschlicher Bewegung
-    Datenanalyse und Entwicklung von Algorithmen zur Bewertung der Bewegungsqualität
-    Prototypentwicklung zur Effektmessung von Interventionen sowie sicheres und nachhaltiges (Forschungs-)Datenmanagement

@@ -1,8 +1,8 @@
 ---
-title: "Digital Motion Next (DiMo-NEXT)"
-excerpt: "Comet project for digitalization in sports <br/><img src='/images/500x300.png'>"
+title: "Crowd in Motion"
+excerpt: ""
 collection: portfolio
 ---
 
 
-https://www.salzburgresearch.at/projekt/edih-crowd-in-motion/
+[Website](https://www.salzburgresearch.at/projekt/edih-crowd-in-motion/)

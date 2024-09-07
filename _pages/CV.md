@@ -37,7 +37,7 @@ redirect_from:
   * Time Series Analysis
   * Exploraitve Data Analysis
 * Study design
-* Field Measurements (Wearable sensors, motion tracking, IMU), 
+* Field Measurements (Wearable sensors, motion tracking, IMU)
 * Digital Signal Processing
 * Linux and Windows
 * Bash
