@@ -48,7 +48,7 @@ redirect_from:
 * Literature
 * Gardening
 * Fotography
-* Biology - especially Neurobiology, Botany and Beahavioural Biology
+* Biology - especially Neurobiology, Botany and Behavioural Biology
 
 
 # Publications
