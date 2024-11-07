@@ -16,7 +16,7 @@ redirect_from:
 
 # Work experience
 
-* June 2022 - Present: Researcher
+* June 2020 - Present: Researcher
   * Salzburg Research Forschungsgesellschaft
   * Duties includes: Exploraitve Data Analysis, Model Development, Study Design, Data Collection (Wearable sensors, motion tracking, IMU), Digital Signal Processing
 
