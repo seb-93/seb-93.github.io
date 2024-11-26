@@ -1,0 +1,11 @@
+---
+title: "5G-Based Body Sensor Network for Real-Time Feedback in Running"
+collection: publications
+category: conferences
+permalink: /publication/5G-Based Body Sensor Network for Real-Time Feedback in Running
+excerpt: 'Immediate feedback is vital in sports and motor learning. Traditionally, coaches provide this feedback. However, recent developments in wearable sensing and feedback devices, state-of-the-art processing algorithms and sensor data integration allow for new applications and insights. While this allows for more direct feedback, it also introduces new demands on feedback systems in terms of network transmission speed, energy consumption and needed calculation power. The 5G networking standard is a promising technology to address these issues. It promises reduced energy usage, high availability, latency in the low millisecond range and high data rates up to 10 Gbps. Despite these characteristics, there has not been much research on the use of 5G in sports biofeedback systems. Therefore, this work aims to assess the usability of 5G for a real-time feedback system in the sports context. We did this by developing a distributed feedback system for the assessment of running gait symme try. The system utilizes internal smartphone IMU as sensors and employs a 5G infrastructure for data transmission to an offsite server for the calculation of running metrics and generation of the feedback signal. Pilot tests, using the feedback system, showed mean roundtrip times of 140.14ms (sd = 14.47ms) for outdoor use and 128.92ms (sd = 25.83ms) for indoor use. These results indicate that promised low latencies by the 5G standard are currently not reachable outside of controlled testing environments. Nonetheless, as these times are below average reaction times in recreational athletes (150ms) it is still promising for real-time feedback applications in running.'
+date: 2024-11-20
+venue: 'International Conference on Sport Sciences Research and Technology Support - icSPORTS'
+citation: 'Mayr, S. and Rieser, H. (2024). 5G-Based Body Sensor Network for Real-Time Feedback in Running. In Proceedings of the 12th International Conference on Sport Sciences Research and Technology Support - icSPORTS; ISBN 978-989-758-719-1; ISSN 2184-3201, SciTePress, pages 180-184. DOI: 10.5220/0012942500003828'
+---
+
