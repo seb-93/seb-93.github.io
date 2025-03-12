@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 # Education
-* PhD in Electrical Engineering, Swiss Federal Institute of Technology (EPFL), started 2025
+* Currently: PhD Student in Electrical Engineering, Swiss Federal Institute of Technology (EPFL), started 2025
 * M.S. in Data Science, Salzburg University, 2022
 * B.S. in Biology, Salzburg University, 2017
 * Technical Informatics - Federal Higher Technical Institute Salzburg (June 2013)
