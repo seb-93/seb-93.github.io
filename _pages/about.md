@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Sebastian, a passionate Data Scientist and Researcher with a unique background in both data science and biology. I hold a Master's degree in Data Science and a Bachelor's degree in Biology from Salzburg University, which has allowed me to blend my love for data with a deep understanding of the natural world.
+Hello, I'm Sebastian, a passionate Data Scientist and Researcher with a background in both data science and biology. I hold a Master's degree in Data Science and a Bachelor's degree in Biology from Salzburg University, which has allowed me to blend my love for data with a deep understanding of the natural world.
 
 # My Journey
 
-I started my academic career in Technical Informatics at the Federal Higher Technical Institute (HTL) Salzburg, before diving deeper into the world of biology and data science. This interdisciplinary background allows me to approach problems from both a technical and biological perspective. Currently, I’m working as a Researcher at Salzburg Research Forschungsgesellschaft, where I specialize in prototype development and data analysis particularly in the fields of wearable sensors and motion tracking.
+I started my education in Technical Informatics at the Federal Higher Technical Institute (HTL) Salzburg, before diving deeper into the world of biology and data science. This interdisciplinary background allows me to approach problems from both a technical and biological perspective. Currently, I’m working as a Researcher at Salzburg Research Forschungsgesellschaft, where I specialize in prototype development and data analysis particularly in the fields of wearable sensors and motion tracking.
 
 # What I Do
 
-In my role, I handle everything from study design to data acquisition, digital signal processing and statistical evaluation. I'm passionate about using data to uncover insights that can drive innovation and research in areas such as human movement and sensor technology to improve health, performance and wellbeing.
+In my role, I handle everything from study design to data acquisition, digital signal processing, model building and statistical evaluation. I'm passionate about using data to uncover insights that can drive innovation and research in areas such as human movement and sensor technology to improve health, performance and wellbeing.
 
 # Beyond Data
 
